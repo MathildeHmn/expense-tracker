@@ -1,6 +1,6 @@
 EXPENSES TRACKER
 
-CSS, JavaScript, React.
+* CSS, JavaScript, React.
 
 J'ai créé un tracker de dépenses grâce à React, avec useState et les hooks notamment.
 __________
